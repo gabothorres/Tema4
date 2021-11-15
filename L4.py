@@ -1,6 +1,6 @@
 # Solución del Laboratorio 4
 
-# Parte a)
+# Parte a
 
 # Los parámetros T, t_final y N son elegidos arbitrariamente
 
