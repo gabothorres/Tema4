@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[18]:
-
-
 # Solución del Laboratorio 4
 
 # Parte a)
@@ -94,16 +88,3 @@ plt.xlabel(r'$\tau$')
 plt.ylabel(r'$R_{XX}(\tau)$')
 plt.legend()
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
